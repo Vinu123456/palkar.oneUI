@@ -1,0 +1,24 @@
+.content {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  
+  .not-found {
+    text-align: center;
+  }
+  .not-found {
+    color: #4979ff;
+    text-decoration: underline;
+  }
+  
+  li,p {
+    text-align: justify;
+  }
+  /* TODO Still needs a better fix on alignment*/
+  .MuiAutocomplete-popper {
+    min-width: 200px;
+  }
+  header {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
